@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Wenjing Jin",
+    "label": "Ph.D. candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wenjing.jin@snu.ac.kr",
+    "url": "https://moonkyung.github.io/",
+    "summary": "Wenjing Jin is a Ph.D. student at Seoul National University. Her research interests include memory management, power management, and RAS features for memory systems. Expected to graduate in August 2024, Wenjing is currently exploring opportunities to contribute her skills and expertise in areas that align with her research interests. She welcomes inquiries regarding potential job opportunities and the chance to connect with fellow professionals in her field.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Bldg. 944, 1 Gwanak-ro, Gwanak-gu, Seoul National University",
+      "postalCode": "08826",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "Seoul"
     },
     "profiles": [
       {
