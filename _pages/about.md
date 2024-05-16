@@ -9,7 +9,7 @@ profile:
   image: MK.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    Email <a href="mailto:wenjing.jin@snu.ac.kr"><i class="fas fa-envelope""></i></a><br>
+    Email <a href="mailto:wenjing.jin@snu.ac.kr"><i class="fas fa-envelope""></i></a>wenjing.jin@snu.ac.kr<br>
     Curriculum Vitae <a href="https://moonkyung.github.io/assets/pdf/CV_wenjing.pdf"><i class="ai ai-cv"></i></a>
 
 news: true # includes a list of news items
