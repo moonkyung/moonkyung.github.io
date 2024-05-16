@@ -131,6 +131,9 @@
           {{- more_authors_hide -}}
         </span>
       {% endif %}
+	  {% if entry.cofirst == "true" %}
+        <br><b>* These authors contributed equally to this work.</b>
+      {% endif %}
     </div>
 
     <!-- Journal/Book title and date -->
