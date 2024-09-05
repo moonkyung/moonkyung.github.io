@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Staff Engineer at AP Architecture Group (MX), Samsung Electronics.
+subtitle: <a href='#'>Affiliations</a>. Staff Engineer at Samsung Electronics
 
 profile:
   align: right
@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 ---
 Wenjing Jin is a Staff Engineer at the AP Architecture Group (MX) within Samsung Electronics. She got her Ph.D. degree in the Department of Computer Science and Engineering at Seoul National University, working with  [Professor Jae W. Lee](https://iamjaelee.github.io/www/){:target="\_blank"}. 
 
-Her research interests include computer architecture, especially memory management, power management, and RAS features for memory systems.  She welcome the chance to connect with fellow professionals in my field.
+Her research interests include computer architecture, especially memory management, power management, and RAS features for memory systems.  She welcomes the chance to connect with fellow professionals in my field.
