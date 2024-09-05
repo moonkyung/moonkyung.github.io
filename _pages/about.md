@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Ph.D. candidate at Seoul National University
+subtitle: <a href='#'>Affiliations</a>. Staff Engineer at AP Architecture Group (MX), Samsung Electronics.
 
 profile:
   align: right
@@ -16,9 +16,6 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Wenjing Jin is a Staff Engineer at the AP Architecture Group (MX) within Samsung Electronics. She got her Ph.D. degree in the Department of Computer Science and Engineering at Seoul National University, working with  [Professor Jae W. Lee](https://iamjaelee.github.io/www/){:target="\_blank"}. 
 
-Wenjing Jin is a Ph.D candidate in the Department of Computer Science and Engineering at Seoul National University working with [Professor Jae W. Lee](https://iamjaelee.github.io/www/){:target="\_blank"}. 
-
-Her research interests include memory management, power management, and RAS features for memory systems. 
-
-Expected to graduate in August 2024, Wenjing is currently exploring opportunities to contribute her skills and expertise in areas that align with her research interests. She welcomes inquiries regarding potential job opportunities and the chance to connect with fellow professionals in her field.
+Her research interests include computer architecture, especially memory management, power management, and RAS features for memory systems.  She welcome the chance to connect with fellow professionals in my field.
